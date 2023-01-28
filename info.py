@@ -46,7 +46,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-SHORTENR_URL = environ.get('SHORTENR_URL', 'tnlink.in')
+SHORTENR_URL = environ.get('SHORTENR_URL', 'Tnlink.in')
 SHORTNER_API = environ.get('SHORTNER_API', '579acbf24450be975938647de3ff47eb2006a95c')
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GOFte-Rz2tcxODg1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+mCMdCb_ymAowZmNl')
